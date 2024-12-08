@@ -29,8 +29,6 @@
 
 ### 🛠️ Languages and Tools
 
-# Technology Stack
-
 <p align="left"> 
     <!-- Frontend -->
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
