@@ -91,19 +91,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding Fun Fact" />
 </p>
-
----
-
-### 🎨 Contributions and Activity
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ehtezafar&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-### 📫 Reach Out!
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/contact-image-path" alt="Contact Banner" />
-</p>
