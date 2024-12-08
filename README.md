@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate about crafting innovative software solutions that make an impact!</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 </div>
 
 ---
