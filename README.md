@@ -1,104 +1,118 @@
 <h1 align="center">👋 Hi, I'm Ehtesham Zafar!</h1>
 <h3 align="center">🚀 Passionate about crafting innovative software solutions that make an impact!</h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehtezafar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ehtezafar&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</div>
-
 ---
 
 ### 🌟 About Me
 
-- 🔭 Currently working on **scalable Web/App Solutions while advancing my expertise in Cloud technologies and AI integration.**
-- 💬 Ask me about **JavaScript, TypeScript, MERN/MEAN, Next.js/NestJS, Python, Generative AI.**
+- 🔭 I’m currently working on **scalable Web/App Solutions** while advancing my expertise in **Cloud technologies and AI integration**.
+- 💬 Ask me about **JavaScript, TypeScript, MERN/MEAN, Next.js/NestJS, Python, Generative AI**.
 - 📫 Reach me at **ehteshamzafar2002@gmail.com**.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Skills
 
-<p align="left"> 
-    <strong>Frontend</strong> <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
-</p>
-<p align="left"> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-    <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
-</p>
+**Programming Languages:**
 
-<p align="left"> 
-    <strong>Backend</strong> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/> </a>
-</p>
-<p align="left"> 
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</p>
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-<p align="left"> 
-    <strong>Databases</strong> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a>
-</p>
-<p align="left"> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-</p>
+**Frontend Development:**
 
-<p align="left"> 
-    <strong>Infrastructure</strong> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a>
-</p>
-<p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-    <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-<p align="left"> 
-    <strong>Tools</strong> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a>
-</p>
-<p align="left"> 
-    <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> 
-    <a href="https://selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-</p>
+**Backend Development:**
+
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+
+**Databases:**
+
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+**DevOps & Cloud:**
+
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+**Tools:**
+
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Experience
+
+**Software Engineer**  
+*ABC Tech Solutions* | *June 2023 – Present*  
+- Developed and maintained web applications using the MERN stack.
+- Collaborated with cross-functional teams to design and implement new features.
+- Optimized applications for maximum speed and scalability.
+
+**Junior Developer**  
+*XYZ Innovations* | *January 2022 – May 2023*  
+- Assisted in the development of client-side applications using Angular and TypeScript.
+- Participated in code reviews and contributed to team knowledge sharing sessions.
+- Implemented RESTful APIs with Node.js and Express.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+*University of Technology* | *Graduated: 2021*  
+- Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems.
+- Honors: Dean's List (2019, 2020).
+
+---
+
+### 🚀 Projects
+
+**Project One**  
+*Description:* Developed a real-time chat application using React and Socket.io.  
+*Technologies:* React, Node.js, Express, Socket.io.  
+[GitHub Repository](https://github.com/ehtezafar/project-one)
+
+**Project Two**  
+*Description:* Created an e-commerce platform with a recommendation engine.  
+*Technologies:* Angular, NestJS, MongoDB.  
+[GitHub Repository](https://github.com/ehtezafar/project-two)
+
+---
+
+### 📫 Contact
+
+- **Email:** ehteshamzafar2002@gmail.com  
+- **LinkedIn:** [Ehtesham Zafar](https://linkedin.com/in/ehtesham-zafar-8a500821b)  
+- **GitHub:** [EhteZafar](https://github.com/EhteZafar)  
+- **Portfolio:** [ehtesham.dev](https://ehtesham.dev) (if available)  
+
+---
+
+### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehtezafar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtezafar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EhteZafar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhteZafar&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 💡 Fun Fact
+### 📢 Let's Connect!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding Fun Fact" />
-</p>
+Feel free to reach out for collaborations, discussions, or just to say hi! 🚀  
+
+ 
