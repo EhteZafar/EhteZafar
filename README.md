@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<table style="border: none; border-collapse: collapse; width: 100%">
-<tr style="border: none;">
-<td width="50%" style="border: none;">
+<div style="display: flex; align-items: start; gap: 20px;">
+
+<div style="flex: 1;">
 
 ### 🌟 About Me
 
@@ -21,12 +21,13 @@
   - Master **Cloud-Native** architectures
 - 📫 Reach me at **ehteshamzafar2002@gmail.com**
 
-</td>
-<td width="50%" style="border: none;">
+</div>
+
+<div style="flex: 1;">
 <img src="https://raw.githubusercontent.com/EhteZafar/EhteZafar/refs/heads/main/assets/skills-img.webp" alt="My Skills" />
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -57,24 +58,25 @@
   <img src="https://stats.quira.sh/EhteZafar/github?theme=dark" alt="EhteZafar's GitHub Stats" />
 </div>
 
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td width="50%" style="border: none; padding: 0;">
+<div style="display: flex; align-items: start; gap: 20px;">
+
+<div style="flex: 1;">
 
 ### 📈 Language Usage Analytics
 
 <img src="https://stats.quira.sh/EhteZafar/languages-over-time?theme=dark" alt="Languages Over Time" width="100%" />
 
-</td>
-<td width="50%" style="border: none; padding: 0;">
+</div>
+
+<div style="flex: 1;">
 
 ### 🎯 Topics & Interests
 
 <img src="https://stats.quira.sh/EhteZafar/topics-over-time?theme=dark" alt="Topics Over Time" width="100%" />
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ### 🤝 Connect with Me
 
