@@ -7,9 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<table style="border: none; border-collapse: collapse; width: 100%">
-<tr style="border: none;">
-<td width="50%" style="border: none;">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/EhteZafar/EhteZafar/refs/heads/main/assets/skills-img.webp">
+<br><br>
 
 ### 🌟 About Me
 
@@ -21,12 +20,8 @@
   - Master **Cloud-Native** architectures
 - 📫 Reach me at **ehteshamzafar2002@gmail.com**
 
-</td>
-<td width="50%" style="border: none;">
-<img src="https://raw.githubusercontent.com/EhteZafar/EhteZafar/refs/heads/main/assets/skills-img.webp" alt="My Skills" />
-</td>
-</tr>
-</table>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🛠️ Tech Stack
 
