@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<table>
+<table border="0" style="border:none;">
 <tr>
-<td width="50%">
+<td width="50%" style="border:none;">
 
 ### 🌟 About Me
 
@@ -22,37 +22,34 @@
 - 📫 Reach me at **ehteshamzafar2002@gmail.com**
 
 </td>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/EhteZafar/EhteZafar/refs/heads/main/assets/skills-img.webp" alt="My Skills" width="100%" />
+<td width="50%" style="border:none;">
+<img src="https://raw.githubusercontent.com/EhteZafar/EhteZafar/refs/heads/main/assets/skills-img.webp" alt="My Skills" />
 </td>
 </tr>
 </table>
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**  
+<h3 align="left" style="font-size: 24px; margin-bottom: 10px;">💻 Languages</h3>
 <img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="programming languages" />
 
-**Frontend Development**  
+<h3 align="left" style="font-size: 24px; margin-bottom: 10px;">🎨 Frontend Development</h3>
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap" alt="frontend skills" />
 
-**Backend Development**  
+<h3 align="left" style="font-size: 24px; margin-bottom: 10px;">⚙️ Backend Development</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,fastapi" alt="backend skills" />
 
-**Databases**  
+<h3 align="left" style="font-size: 24px; margin-bottom: 10px;">🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" alt="databases" />
 
-**DevOps & Cloud**  
+<h3 align="left" style="font-size: 24px; margin-bottom: 10px;">🚀 DevOps & Cloud</h3>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git" alt="devops tools" />
 
-</div>
+<h3 align="left" style="font-size: 24px; margin-bottom: 10px;">🛠️ Additional Tools</h3>
 
-**Additional Tools & Technologies:**
-- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-- ![DuploCloud](https://img.shields.io/badge/-DuploCloud-0052CC?style=for-the-badge&logoColor=white)
-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![DuploCloud](https://img.shields.io/badge/-DuploCloud-0052CC?style=for-the-badge&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📊 GitHub Analytics
 
