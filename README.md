@@ -72,7 +72,7 @@
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ehtesham-zafar-8a500821b">
+  <a href="https://www.linkedin.com/in/muhammad-ehtesham-uz-zafar-zafar-8a500821b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/EhteZafar">
