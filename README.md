@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🌟 About Me
 
 - 🔭 I'm currently working on **scalable Web/App Solutions** while advancing my expertise in **Cloud technologies and AI integration**
@@ -16,6 +20,13 @@
   - Develop efficient **AI-powered services**
   - Master **Cloud-Native** architectures
 - 📫 Reach me at **ehteshamzafar2002@gmail.com**
+
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/EhteZafar/EhteZafar/refs/heads/main/assets/skills-img.webp" alt="My Skills" width="100%" />
+</td>
+</tr>
+</table>
 
 ### 🛠️ Tech Stack
 
