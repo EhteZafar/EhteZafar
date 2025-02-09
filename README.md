@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%">
 <tr style="border: none;">
 <td width="50%" style="border: none;">
 
