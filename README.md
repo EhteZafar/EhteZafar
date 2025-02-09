@@ -1,4 +1,4 @@
-![github cover](https://raw.githubusercontent.com/EhteZafar/EhteZafar/refs/heads/main/assets/banner-img.webp)
+![github cover](https://github.com/EhteZafar/EhteZafar/blob/main/assets/banner-img.jpg)
 
 <h1 align="center">👋 Hi, I'm Ehtesham Zafar!</h1>
 <h3 align="center">🚀 Passionate about crafting innovative software solutions that make an impact!</h3>
