@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<table border="0" style="border:none;">
-<tr>
-<td width="50%" style="border:none;">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="50%" style="border: none;">
 
 ### 🌟 About Me
 
@@ -22,7 +22,7 @@
 - 📫 Reach me at **ehteshamzafar2002@gmail.com**
 
 </td>
-<td width="50%" style="border:none;">
+<td width="50%" style="border: none;">
 <img src="https://raw.githubusercontent.com/EhteZafar/EhteZafar/refs/heads/main/assets/skills-img.webp" alt="My Skills" />
 </td>
 </tr>
@@ -57,16 +57,16 @@
   <img src="https://stats.quira.sh/EhteZafar/github?theme=dark" alt="EhteZafar's GitHub Stats" />
 </div>
 
-<table border="0" style="border:none; margin: 0; padding: 0;">
-<tr>
-<td width="50%" style="border:none; padding: 0;">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="50%" style="border: none; padding: 0;">
 
 ### 📈 Language Usage Analytics
 
 <img src="https://stats.quira.sh/EhteZafar/languages-over-time?theme=dark" alt="Languages Over Time" width="100%" />
 
 </td>
-<td width="50%" style="border:none; padding: 0;">
+<td width="50%" style="border: none; padding: 0;">
 
 ### 🎯 Topics & Interests
 
