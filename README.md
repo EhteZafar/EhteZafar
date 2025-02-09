@@ -57,17 +57,24 @@
   <img src="https://stats.quira.sh/EhteZafar/github?theme=dark" alt="EhteZafar's GitHub Stats" />
 </div>
 
+<table border="0" style="border:none; margin: 0; padding: 0;">
+<tr>
+<td width="50%" style="border:none; padding: 0;">
+
 ### 📈 Language Usage Analytics
 
-<div align="center">
-  <img src="https://stats.quira.sh/EhteZafar/languages-over-time?theme=dark" alt="Languages Over Time" />
-</div>
+<img src="https://stats.quira.sh/EhteZafar/languages-over-time?theme=dark" alt="Languages Over Time" width="100%" />
+
+</td>
+<td width="50%" style="border:none; padding: 0;">
 
 ### 🎯 Topics & Interests
 
-<div align="center">
-  <img src="https://stats.quira.sh/EhteZafar/topics-over-time?theme=dark" alt="Topics Over Time" />
-</div>
+<img src="https://stats.quira.sh/EhteZafar/topics-over-time?theme=dark" alt="Topics Over Time" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ### 🤝 Connect with Me
 
