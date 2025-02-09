@@ -83,10 +83,4 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <i>Happy Coding! 🚀</i>
-</div>
-
  
