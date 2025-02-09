@@ -17,21 +17,29 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+<div align="center">
 
-**Databases & Cloud:**
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="programming languages" />
+
+**Frontend Development**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap" alt="frontend skills" />
+
+**Backend Development**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,fastapi" alt="backend skills" />
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" alt="databases" />
+
+**DevOps & Cloud**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git" alt="devops tools" />
+
+</div>
+
+**Additional Tools & Technologies:**
+- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+- ![DuploCloud](https://img.shields.io/badge/-DuploCloud-0052CC?style=for-the-badge&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📊 GitHub Analytics
 
