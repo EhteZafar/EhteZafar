@@ -22,7 +22,7 @@
 
 <br>
 
-### 🛠️ Tech Stack
+### 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <h3 align="left" style="font-size: 24px; margin-bottom: 10px;">💻 Languages</h3>
 <img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="programming languages" />
