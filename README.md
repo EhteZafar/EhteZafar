@@ -1,6 +1,7 @@
 ![github cover](https://github.com/EhteZafar/EhteZafar/blob/main/assets/banner-img.jpg)
 
 <h1 align="center">👋 Hi, I'm Ehtesham Zafar!</h1>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">🚀 Passionate about crafting innovative software solutions that make an impact!</h3>
 
 <div align="center">
