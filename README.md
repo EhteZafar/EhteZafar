@@ -81,17 +81,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://stats.quira.sh/EhteZafar/github?theme=dark" alt="EhteZafar's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://stats.quira.sh/EhteZafar/languages-over-time?theme=dark" />
-  <img width="49%" src="https://stats.quira.sh/EhteZafar/topics-over-time?theme=dark" />
-</div>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🤝 Connect with Me
